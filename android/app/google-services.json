@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930522480388",
+    "project_id": "autoforest-93da4",
+    "storage_bucket": "autoforest-93da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930522480388:android:a50c9a6e17fb8c35a79a51",
+        "android_client_info": {
+          "package_name": "com.example.autoforest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930522480388-ej2cgs4av4sj2bftcomupbtij027kip0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBVXGRN4XfaDWveHteGaIYvVLycVuSYfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930522480388-ej2cgs4av4sj2bftcomupbtij027kip0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
